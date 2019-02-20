@@ -19,6 +19,11 @@ Python-爬虫 完成以下要求
    win10        
    pychram 2018.3
 
+### 主要用到的Python模块：
+
+scrapy
+selenium
+
 ### 注意事项：
 selenium 模拟浏览器启动需要将chromedriver.exe 添加到系统环境变量路径(添加完路径需要重启电脑才能生效) 才能调用本地的谷歌浏览器   
 或者直接设置webdriver.Chrome的路径参数executable_path=*/chromedriver的绝对路径         
