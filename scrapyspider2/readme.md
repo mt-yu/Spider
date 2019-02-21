@@ -21,8 +21,8 @@ Python-爬虫 完成以下要求
 
 ### 主要用到的Python模块：
 
-scrapy
-selenium
+   scrapy   
+   selenium
 
 ### 注意事项：
 selenium 模拟浏览器启动需要将chromedriver.exe 添加到系统环境变量路径(添加完路径需要重启电脑才能生效) 才能调用本地的谷歌浏览器   
@@ -37,6 +37,7 @@ selenium 模拟浏览器启动需要将chromedriver.exe 添加到系统环境变
 并通过selenium调用模拟浏览器 完成（旅客信息填写页，填写完成点击下一步）的操作
 
 爬取过程截屏如附件 爬取过程.gif所示
+![crawling](爬取过程.gif)
 
 
 
